@@ -125,10 +125,11 @@ me.say_hi()
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=RishuSharma18&show_icons=true&theme=radical&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
 
-  <p align="center">
-  <!-- GitHub Top Languages with bars -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishuSharma18&layout=default&theme=radical&langs_count=8&hide_border=false&border_radius=15" height="200" alt="Top Languages"/>
+<p align="center">
+  <!-- Top Languages with proper bars -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishuSharma18&layout=default&theme=radical&hide_border=false&langs_count=8&border_radius=15" height="250" alt="Top Languages"/>
 </p>
+
 
 
 ---
