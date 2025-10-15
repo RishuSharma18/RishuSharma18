@@ -18,9 +18,6 @@
   <a href="mailto:rishusharma1918@gmail.com" title="Email">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://codolio.com/profile/Rishu_Sharma18" target="_blank" title="Codolio">
-    <img src="https://img.shields.io/badge/Codolio-Heatmap-FF6B6B?style=for-the-badge&logo=codio&logoColor=white" alt="Codolio"/>
-  </a>
 </p>
 
 
@@ -127,11 +124,11 @@ me.say_hi()
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=RishuSharma18&show_icons=true&theme=radical&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RishuSharma18&show_icons=true&theme=radical&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
 
 <p align="center">
   <!-- Top Languages (each language on separate line) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishuSharma18&layout=compact&theme=radical&langs_count=8&hide_border=false&border_radius=15" height="250" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishuSharma18&layout=compact&theme=radical&langs_count=9&hide_border=false&border_radius=15" height="250" alt="Top Languages"/>
 </p>
 
 
@@ -145,7 +142,7 @@ me.say_hi()
   <!-- Activity Graph with Description -->
   <b>📈 My GitHub Activity Over Time</b><br>
   <i>Tracks my contributions, commits, and overall activity</i><br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RishuSharma18&theme=react-dark&hide_border=false&area=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RishuSharma18&theme=react-dark&hide_border=false&area=true&custom_title=Rishu's+GitHub+Activity" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
@@ -160,35 +157,53 @@ me.say_hi()
 ## 💻 Competitive Programming Journey
 
 <p align="center">
-  <!-- LeetCode -->
-  <a href="https://leetcode.com/Rishu_Sharma18" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-
-  <!-- GFG -->
-  <a href="https://auth.geeksforgeeks.org/user/rishusharma18" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Active-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-
-  <!-- Codolio -->
-  <a href="https://codolio.com/Rishu_Sharma18" target="_blank">
-    <img src="https://img.shields.io/badge/Codolio-Active-FF6B6B?style=for-the-badge" />
-  </a>
+  <b>📌 Platforms I'm active on:</b>
 </p>
 
 <p align="center">
-  <!-- LeetCode Heatmap -->
-  <a href="https://leetcode.com/Rishu_Sharma18" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Rishu_Sharma18?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Heatmap"/>
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/Rishu_Sharma18" target="_blank" title="My LeetCode Profile">
+    <img src="https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 
-  <!-- Codolio heatmap placeholder -->
- <a href="https://codolio.com/profile/Rishu_Sharma18" target="_blank">
-  <img src="https://img.shields.io/badge/Codolio-Heatmap-FF6B6B?style=for-the-badge" alt="Codolio Heatmap"/>
-</a>
+  <!-- GeeksforGeeks -->
+  <a href="https://auth.geeksforgeeks.org/user/rishusharma18" target="_blank" title="My GeeksforGeeks Profile">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Active-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
 
+  <!-- Codolio -->
+  <a href="https://codolio.com/Rishu_Sharma18" target="_blank" title="My Codolio Profile">
+    <img src="https://img.shields.io/badge/Codolio-Active-FF6B6B?style=for-the-badge" alt="Codolio"/>
+  </a>
 </p>
 
+---
+
+<p align="center">
+  <b>📊 Heatmaps & Activity Overview</b><br>
+  <i>Track my problem-solving consistency and streaks</i>
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <b>LeetCode Heatmap</b><br>
+      <a href="https://leetcode.com/Rishu_Sharma18" target="_blank">
+        <img src="https://leetcard.jacoblin.cool/Rishu_Sharma18?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Heatmap" width="450"/>
+      </a>
+    </td>
+    <td align="center">
+      <b>Codolio Heatmap</b><br>
+      <a href="https://codolio.com/profile/Rishu_Sharma18" target="_blank">
+        <img src="https://img.shields.io/badge/Codolio-Heatmap-FF6B6B?style=for-the-badge" alt="Codolio Heatmap" width="300"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <i>Click on the badges or heatmaps to visit profiles and check stats in detail!</i>
+</p>
 
 ---
 
