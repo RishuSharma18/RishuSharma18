@@ -1,273 +1,137 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Rishu+Sharma+👋;Data+Scientist+in+the+Making+📊;Machine+Learning+Enthusiast+🤖;Turning+Coffee+into+Code+☕;3rd+Year+CSE+%40+SKIT+Jaipur" alt="Typing SVG"/>
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-gif"/>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Rishu+Sharma+%F0%9F%91%8B;Data+Scientist+%7C+ML+Engineer;B.Tech+CSE+%40+SKIT+Jaipur" alt="Typing SVG"/>
 
-<p align="center">
-  <a href="https://rishusharma.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/rishusharma" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/rishusharma" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/rishusharma" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-  </a>
-  <a href="mailto:rishusharma@example.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishusharma&color=blueviolet&style=for-the-badge" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/rishusharma?style=for-the-badge&color=blue" alt="Followers"/>
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rishusharma.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishusharma)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/rishusharma)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/rishusharma)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishusharma@example.com)
+
+![Profile Views](https://komarev.com/ghpvc/?username=rishusharma&color=blueviolet&style=flat-square)
+
+</div>
 
 ---
 
-## 🚀 About Me - The Origin Story
+## 👨‍💻 About Me
 
 ```python
 class RishuSharma:
     def __init__(self):
-        self.username = "rishusharma"
+        self.name = "Rishu Sharma"
+        self.role = "Data Scientist & ML Engineer"
         self.location = "Jaipur, Rajasthan 🇮🇳"
-        self.education = "B.Tech CSE @ SKIT Jaipur (3rd Year)"
-        self.passions = ["Data Science", "Machine Learning", "AI", "Basketball 🏀"]
-        self.current_status = "Teaching machines to learn while still learning myself 🤖"
-        self.superpower = "Can debug code and shoot hoops simultaneously"
+        self.education = "B.Tech CSE @ SKIT (3rd Year)"
+        self.interests = ["AI/ML", "Data Science", "Deep Learning", "Basketball"]
         
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together! ✨")
-
-me = RishuSharma()
-me.say_hi()
+    def current_focus(self):
+        return {
+            "learning": ["Transformers", "NLP", "Computer Vision", "MLOps"],
+            "building": ["ML Pipelines", "AI Applications", "Data Analytics"],
+            "goal": "Contributing to impactful AI projects"
+        }
 ```
 
-> 🎯 **Mission**: Transforming data into insights, algorithms into intelligence, and ideas into reality!  
-> ⚡ **Fun Fact**: I can clean messy datasets for hours and still smile 😄 (It's a gift and a curse)  
-> 🐛 **Debug Count Today**: Lost track after the semicolon incident...  
-> 🏀 **Basketball Status**: Slam dunk dreamer | Code dunker by day
+- 🔭 Building AI-powered solutions and data-driven applications
+- 🌱 Deep diving into Large Language Models and Deep Learning
+- 🎯 Passionate about solving real-world problems with data
+- 🏀 Basketball enthusiast and occasional code dunker
+- ⚡ Fun fact: I can debug for hours and still enjoy it!
 
 ---
 
-## 🛠️ Tech Arsenal - My Weapons of Choice
+## 🛠️ Tech Stack
 
-<details open>
-<summary><b>💻 Programming Languages</b></summary>
-<br>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-</details>
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-<details open>
-<summary><b>📊 Data Science & Machine Learning</b></summary>
-<br>
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-</p>
-</details>
+**AI/ML & Data Science**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-<details open>
-<summary><b>📈 Data Visualization</b></summary>
-<br>
-<p>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-</p>
-</details>
+**Visualization & Web**  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-<details open>
-<summary><b>🌐 Web Development & Deployment</b></summary>
-<br>
-<p>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-</p>
-</details>
-
-<details open>
-<summary><b>🛠️ Tools & Platforms</b></summary>
-<br>
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
-</p>
-</details>
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-## 🌟 What I'm Currently Cooking
+## 📊 GitHub Stats
 
-```javascript
-const currentFocus = {
-    learning: ["Deep Learning", "NLP", "Computer Vision", "MLOps"],
-    building: ["AI-powered projects", "End-to-end ML pipelines", "Data-driven web apps"],
-    exploring: ["Transformers", "GANs", "Reinforcement Learning"],
-    nextGoal: "Contributing to Open Source AI projects 🎯"
-};
-```
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=rishusharma&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishusharma&layout=compact&theme=radical&hide_border=true&langs_count=8" height="170" />
 
-## 📊 GitHub Stats - The Numbers Game
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rishusharma&theme=radical&hide_border=true" width="500" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishusharma&show_icons=true&theme=radical&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishusharma&layout=compact&theme=radical&hide_border=true&border_radius=15&langs_count=8" height="170" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishusharma&theme=radical&hide_border=true&border_radius=15" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rishusharma&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</p>
+</div>
 
 ---
 
-## 💻 Competitive Programming Journey
+## 💻 Competitive Programming
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  <img src="https://img.shields.io/badge/Problems_Solved-200+-2F8D46?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Active-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://leetcode.com/rishusharma" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/rishusharma?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats"/>
-  </a>
-</p>
+<a href="https://leetcode.com/rishusharma">
+  <img src="https://leetcard.jacoblin.cool/rishusharma?theme=dark&font=Ubuntu&ext=heatmap" width="500" />
+</a>
+
+**LeetCode:** 200+ Problems Solved | **GeeksforGeeks:** 150+ Problems Solved
+
+</div>
 
 ---
 
-## 🎯 Activity Graph
+## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishusharma&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
-</p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rishusharma&theme=react-dark&hide_border=true&area=true" width="100%"/>
 
 ---
 
-## 🎨 Contribution Snake
+## 🤝 Connect With Me
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rishusharma/rishusharma/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+<div align="center">
 
----
+I'm always interested in collaborating on AI/ML projects, discussing new technologies, or just having a conversation about tech and basketball!
 
-## 💡 Random Dev Quote
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishusharma)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rishusharma.github.io)
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rishusharma@example.com)
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
+</div>
 
 ---
 
-## 🎭 The Fun Corner - Because Why So Serious?
+<div align="center">
 
-<table align="center">
-<tr>
-<td width="50%">
+**💙 Thanks for visiting!**
 
-### 🎮 When I'm Not Coding:
-- 🏀 Shooting hoops (and occasionally missing)
-- 📚 Reading about latest AI breakthroughs
-- 🎵 Vibing to lo-fi while debugging
-- 🍕 Pizza-driven development enthusiast
-- 🎯 Contemplating life's big questions (like why the code worked)
+*"First, solve the problem. Then, write the code."*
 
-</td>
-<td width="50%">
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
 
-### 🤓 Developer Confessions:
-- ☕ Coffee to code ratio: 3:1
-- 🐛 Bugs created vs fixed: Still calculating...
-- 💻 Tabs vs Spaces: Spaces (fight me)
-- 🌙 Peak productivity: 11 PM - 3 AM
-- 📱 Rubber duck debugging: Professional level
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="coding-fun"/>
-</p>
-
----
-
-## 🤝 Let's Connect & Collaborate!
-
-<p align="center">
-  <b>💬 I'm always up for:</b><br>
-  Discussing ML algorithms | Collaborating on AI projects | Coffee chats about tech | Basketball debates 🏀
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rishusharma">
-    <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rishusharma@example.com">
-    <img src="https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://rishusharma.github.io">
-    <img src="https://img.shields.io/badge/Check_Out_My_Portfolio-FF6B6B?style=for-the-badge&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 💭 Words I Code By
-
-<p align="center">
-  <i>"Data is the new oil — but only if you know how to refine it."</i><br>
-  <i>"First, solve the problem. Then, write the code."</i><br>
-  <i>"Machine Learning: Teaching computers to do things we don't fully understand ourselves!"</i>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</p>
-
-<p align="center">
-  <b>⭐️ From <a href="https://github.com/rishusharma">Rishu Sharma</a> with 💙 and ☕</b><br>
-  <i>Last Updated: October 2025 | Made with passion and a lot of Stack Overflow 😄</i>
-</p>
-
----
-
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-  <img src="https://forthebadge.com/images/badges/contains-technical-debt.svg" />
-</p>
+</div>
