@@ -7,23 +7,40 @@
 </p>
 
 
-<p align="center">
-  <a href="https://RishuSharma18.github.io" target="_blank" title="My Portfolio">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white&labelColor=FF6B6B" alt="Portfolio"/>
+<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+
+  <a href="https://RishuSharma18.github.io" target="_blank" title="My Portfolio" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white&labelColor=FF6B6B" 
+         alt="Portfolio" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.2s;" 
+         onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
-  <a href="https://www.linkedin.com/in/Rishu-Sharma1918" target="_blank" title="Connect on LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+
+  <a href="https://www.linkedin.com/in/Rishu-Sharma1918" target="_blank" title="Connect on LinkedIn" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" 
+         alt="LinkedIn" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.2s;" 
+         onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
-  <a href="https://leetcode.com/Rishu_Sharma18" target="_blank" title="My LeetCode Profile">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" alt="LeetCode"/>
+
+  <a href="https://leetcode.com/Rishu_Sharma18" target="_blank" title="My LeetCode Profile" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" 
+         alt="LeetCode" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.2s;" 
+         onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/rishusharma18" target="_blank" title="GeeksforGeeks Profile">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=2F8D46" alt="GeeksforGeeks"/>
+
+  <a href="https://auth.geeksforgeeks.org/user/rishusharma18" target="_blank" title="GeeksforGeeks Profile" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=2F8D46" 
+         alt="GeeksforGeeks" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.2s;" 
+         onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
-  <a href="mailto:rishusharma1918@gmail.com" title="Send me an email">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+
+  <a href="mailto:rishusharma1918@gmail.com" title="Send me an email" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" 
+         alt="Email" style="border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); transition: transform 0.2s;" 
+         onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
+
 </p>
+
 
 ---
 
