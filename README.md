@@ -124,11 +124,9 @@ me.say_hi()
   <!-- Followers -->
   <img src="https://img.shields.io/github/followers/RishuSharma18?style=for-the-badge&color=blue" alt="Followers"/>
 </p>
-<p align="center">
   <!-- GitHub Stats -->
+  <p>
   <img src="https://github-readme-stats.vercel.app/api?username=RishuSharma18&show_icons=true&theme=radical&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" height="200" alt="GitHub Stats"/>
-
-<p align="center">
   <!-- Top Languages (each language on separate line) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishuSharma18&layout=compact&theme=radical&langs_count=9&hide_border=false&border_radius=15" height="250" alt="Top Languages"/>
 </p>
