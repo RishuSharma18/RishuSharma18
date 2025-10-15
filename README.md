@@ -2,51 +2,46 @@
   Hey there! I'm Rishu Sharma 👋
 </h1>
 
-<p align="center" style="font-size: 18px; color: #7f8c8d;">
-  Data Science Enthusiast | Machine Learning Learner | CSE 3rd Year @ SKIT Jaipur
-</p>
+<p align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:12px;">
 
-
-<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 12px;">
-
-  <a href="https://RishuSharma18.github.io" target="_blank" title="My Portfolio" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF6B6B" 
+  <a href="https://RishuSharma18.github.io" target="_blank" title="Portfolio" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" 
          alt="Portfolio" 
-         style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.25); transition: transform 0.25s, box-shadow 0.25s;" 
-         onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.35)'" 
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 10px rgba(0,0,0,0.25)'" />
+         style="border-radius:12px; transition: transform 0.3s, box-shadow 0.3s;" 
+         onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 6px 15px rgba(0,0,0,0.3)'" 
+         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" />
   </a>
 
-  <a href="https://www.linkedin.com/in/Rishu-Sharma1918" target="_blank" title="Connect on LinkedIn" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" 
+  <a href="https://www.linkedin.com/in/Rishu-Sharma1918" target="_blank" title="LinkedIn" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
          alt="LinkedIn" 
-         style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.25); transition: transform 0.25s, box-shadow 0.25s;" 
-         onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.35)'" 
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 10px rgba(0,0,0,0.25)'" />
+         style="border-radius:12px; transition: transform 0.3s, box-shadow 0.3s;" 
+         onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 6px 15px rgba(0,0,0,0.3)'" 
+         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" />
   </a>
 
-  <a href="https://leetcode.com/Rishu_Sharma18" target="_blank" title="My LeetCode Profile" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" 
+  <a href="https://leetcode.com/Rishu_Sharma18" target="_blank" title="LeetCode" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" 
          alt="LeetCode" 
-         style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.25); transition: transform 0.25s, box-shadow 0.25s;" 
-         onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.35)'" 
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 10px rgba(0,0,0,0.25)'" />
+         style="border-radius:12px; transition: transform 0.3s, box-shadow 0.3s;" 
+         onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 6px 15px rgba(0,0,0,0.3)'" 
+         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" />
   </a>
 
-  <a href="https://auth.geeksforgeeks.org/user/rishusharma18" target="_blank" title="GeeksforGeeks Profile" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=2F8D46" 
+  <a href="https://auth.geeksforgeeks.org/user/rishusharma18" target="_blank" title="GeeksforGeeks" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" 
          alt="GFG" 
-         style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.25); transition: transform 0.25s, box-shadow 0.25s;" 
-         onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.35)'" 
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 10px rgba(0,0,0,0.25)'" />
+         style="border-radius:12px; transition: transform 0.3s, box-shadow 0.3s;" 
+         onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 6px 15px rgba(0,0,0,0.3)'" 
+         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" />
   </a>
 
-  <a href="mailto:rishusharma1918@gmail.com" title="Send me an Email" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" 
+  <a href="mailto:rishusharma1918@gmail.com" title="Email" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
          alt="Email" 
-         style="border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.25); transition: transform 0.25s, box-shadow 0.25s;" 
-         onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 6px 20px rgba(0,0,0,0.35)'" 
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 4px 10px rgba(0,0,0,0.25)'" />
+         style="border-radius:12px; transition: transform 0.3s, box-shadow 0.3s;" 
+         onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 6px 15px rgba(0,0,0,0.3)'" 
+         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" />
   </a>
 
 </p>
