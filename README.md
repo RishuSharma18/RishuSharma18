@@ -159,8 +159,10 @@ me.say_hi()
 ## 🎨 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RishuSharma18/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/RishuSharma18/output/github-contribution-grid-snake-dark.svg" 
+       alt="GitHub contribution snake animation" />
 </p>
+
 
 ---
 
@@ -168,12 +170,6 @@ me.say_hi()
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="coding-fun"/>
 </p>
 
 ---
