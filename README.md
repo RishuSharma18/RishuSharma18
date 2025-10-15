@@ -1,22 +1,23 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Rishu+Sharma+👋" alt="Typing SVG"/>
+  <img src="https://img.shields.io/badge/Hey%20there!%20I'm%20Rishu%20Sharma👋-00D9FF?style=for-the-badge&logoColor=white" alt="Rishu Sharma"/>
 </h1>
 
+
 <p align="center">
-  <a href="https://RishuSharma18.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white" />
+  <a href="https://RishuSharma18.github.io" target="_blank" title="My Portfolio">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white&labelColor=FF6B6B" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/Rishu-Sharma1918" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/Rishu-Sharma1918" target="_blank" title="Connect on LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
   </a>
-  <a href="https://leetcode.com/Rishu_Sharma18" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <a href="https://leetcode.com/Rishu_Sharma18" target="_blank" title="My LeetCode Profile">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" alt="LeetCode"/>
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/rishusharma18" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  <a href="https://auth.geeksforgeeks.org/user/rishusharma18" target="_blank" title="GeeksforGeeks Profile">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=2F8D46" alt="GeeksforGeeks"/>
   </a>
-  <a href="mailto:rishusharma1918@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:rishusharma1918@gmail.com" title="Send me an email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
   </a>
 </p>
 
@@ -223,6 +224,5 @@ me.say_hi()
 
 <p align="center">
   <b>⭐️ From <a href="https://github.com/rishusharma">Rishu Sharma</a> with 💙</b><br>
-  <i>Last Updated: October 2025 | Made with passion and Stack Overflow 😄</i>
 </p>
 
