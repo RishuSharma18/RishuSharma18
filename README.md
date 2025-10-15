@@ -131,7 +131,8 @@ me.say_hi()
 
 <p align="center">
   <!-- GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=RishuSharma18&theme=radical&hide_border=true&border_radius=15" height="150" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RishuSharma18&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
+
 </p>
 
 <p align="center">
@@ -145,16 +146,34 @@ me.say_hi()
 ## 💻 Competitive Programming Journey
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LeetCode-Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  <img src="https://img.shields.io/badge/Problems_Solved-200+-2F8D46?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GeeksforGeeks-Active-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/Rishu_Sharma18" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+
+  <!-- GFG -->
+  <a href="https://auth.geeksforgeeks.org/user/rishusharma18" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Active-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+
+  <!-- Codolio -->
+  <a href="https://codolio.com/Rishu_Sharma18" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-Active-FF6B6B?style=for-the-badge" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/rishusharma" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/rishusharma?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats"/>
+  <!-- LeetCode Heatmap -->
+  <a href="https://leetcode.com/Rishu_Sharma18" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/rishusharma?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Heatmap"/>
+  </a>
+
+  <!-- Codolio heatmap placeholder -->
+  <a href="https://codolio.com/Rishu_Sharma18" target="_blank">
+    <img src="https://img.shields.io/badge/Codolio-Heatmap-FF6B6B?style=for-the-badge" alt="Codolio Heatmap"/>
   </a>
 </p>
+
 
 ---
 
