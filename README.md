@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Data Enthusiast | Machine Learning Learner | C++ & DSA Practitioner
+  Data Enthusiast  |  Machine Learning Learner  |  C++ & DSA Practitioner
 </p>
 
 
