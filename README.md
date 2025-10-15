@@ -154,7 +154,7 @@ me.say_hi()
 
 ---
 
-## 💻 Competitive Programming Journey
+## 💻 Problem-Solving Arena
 
 <p align="center">
   <b>📌 Platforms I'm active on:</b>
