@@ -165,7 +165,7 @@ me.say_hi()
 <p align="center">
   <!-- LeetCode Heatmap -->
   <a href="https://leetcode.com/Rishu_Sharma18" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/rishusharma?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Heatmap"/>
+    <img src="https://leetcard.jacoblin.cool/Rishu_Sharma18?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Heatmap"/>
   </a>
 
   <!-- Codolio heatmap placeholder -->
@@ -174,18 +174,6 @@ me.say_hi()
   </a>
 </p>
 
-
----
-
-## 📊 Activity & Animations
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RishuSharma18&theme=react-dark&hide_border=true&area=true" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RishuSharma18/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
 
 ---
 
