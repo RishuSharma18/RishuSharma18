@@ -2,48 +2,25 @@
   Hey there! I'm Rishu Sharma 👋
 </h1>
 
-<p align="center" style="display:flex; justify-content:center; flex-wrap:wrap; gap:12px;">
-
-  <a href="https://RishuSharma18.github.io" target="_blank" title="Portfolio" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" 
-         alt="Portfolio" 
-         style="border-radius:12px; transition: transform 0.3s, box-shadow 0.3s;" 
-         onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 6px 15px rgba(0,0,0,0.3)'" 
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" />
+<p align="center">
+  <a href="https://RishuSharma18.github.io" target="_blank" title="Portfolio">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
-
-  <a href="https://www.linkedin.com/in/Rishu-Sharma1918" target="_blank" title="LinkedIn" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-         alt="LinkedIn" 
-         style="border-radius:12px; transition: transform 0.3s, box-shadow 0.3s;" 
-         onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 6px 15px rgba(0,0,0,0.3)'" 
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" />
+  <a href="https://www.linkedin.com/in/Rishu-Sharma1918" target="_blank" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-
-  <a href="https://leetcode.com/Rishu_Sharma18" target="_blank" title="LeetCode" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" 
-         alt="LeetCode" 
-         style="border-radius:12px; transition: transform 0.3s, box-shadow 0.3s;" 
-         onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 6px 15px rgba(0,0,0,0.3)'" 
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" />
+  <a href="https://leetcode.com/Rishu_Sharma18" target="_blank" title="LeetCode">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
-
-  <a href="https://auth.geeksforgeeks.org/user/rishusharma18" target="_blank" title="GeeksforGeeks" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" 
-         alt="GFG" 
-         style="border-radius:12px; transition: transform 0.3s, box-shadow 0.3s;" 
-         onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 6px 15px rgba(0,0,0,0.3)'" 
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" />
+  <a href="https://auth.geeksforgeeks.org/user/rishusharma18" target="_blank" title="GeeksforGeeks">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
-
-  <a href="mailto:rishusharma1918@gmail.com" title="Email" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-         alt="Email" 
-         style="border-radius:12px; transition: transform 0.3s, box-shadow 0.3s;" 
-         onmouseover="this.style.transform='scale(1.1)'; this.style.boxShadow='0 6px 15px rgba(0,0,0,0.3)'" 
-         onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='none'" />
+  <a href="mailto:rishusharma1918@gmail.com" title="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-
+  <a href="https://codolio.com/profile/Rishu_Sharma18" target="_blank" title="Codolio">
+    <img src="https://img.shields.io/badge/Codolio-Heatmap-FF6B6B?style=for-the-badge&logo=codio&logoColor=white" alt="Codolio"/>
+  </a>
 </p>
 
 
