@@ -151,7 +151,7 @@ me.say_hi()
   <!-- GitHub Trophies with Description -->
   <b>🏆 GitHub Achievements & Trophies</b><br>
   <i>Highlighting milestones, languages, and contribution streaks</i><br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=RishuSharma18&theme=radical&no-frame=false&no-bg=false&row=1&column=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=RishuSharma18&theme=radical&no-frame=false&no-bg=false&row=1&column=8" alt="GitHub Trophies"/>
 </p>
 
 ---
