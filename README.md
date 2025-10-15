@@ -1,10 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Rishu+Sharma+👋;Data+Scientist+in+the+Making+📊;Machine+Learning+Enthusiast+🤖;Turning+Coffee+into+Code+☕;3rd+Year+CSE+%40+SKIT+Jaipur" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Rishu+Sharma+👋" alt="Typing SVG"/>
 </h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-gif"/>
-</p>
 
 <p align="center">
   <a href="https://rishusharma.github.io" target="_blank">
@@ -77,10 +73,6 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-</p>
 </details>
 
 <details open>
@@ -90,7 +82,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 </details>
 
@@ -118,19 +110,6 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
 </p>
 </details>
-
----
-
-## 🌟 What I'm Currently Cooking
-
-```javascript
-const currentFocus = {
-    learning: ["Deep Learning", "NLP", "Computer Vision", "MLOps"],
-    building: ["AI-powered projects", "End-to-end ML pipelines", "Data-driven web apps"],
-    exploring: ["Transformers", "GANs", "Reinforcement Learning"],
-    nextGoal: "Contributing to Open Source AI projects 🎯"
-};
-```
 
 ---
 
@@ -175,10 +154,14 @@ const currentFocus = {
 
 ---
 
-## 🎨 Contribution Snake
+## 📊 Activity & Animations
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rishusharma/rishusharma/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RishuSharma18&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RishuSharma18/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
 ---
@@ -187,39 +170,6 @@ const currentFocus = {
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</p>
-
----
-
-## 🎭 The Fun Corner - Because Why So Serious?
-
-<table align="center">
-<tr>
-<td width="50%">
-
-### 🎮 When I'm Not Coding:
-- 🏀 Shooting hoops (and occasionally missing)
-- 📚 Reading about latest AI breakthroughs
-- 🎵 Vibing to lo-fi while debugging
-- 🍕 Pizza-driven development enthusiast
-- 🎯 Contemplating life's big questions (like why the code worked)
-
-</td>
-<td width="50%">
-
-### 🤓 Developer Confessions:
-- ☕ Coffee to code ratio: 3:1
-- 🐛 Bugs created vs fixed: Still calculating...
-- 💻 Tabs vs Spaces: Spaces (fight me)
-- 🌙 Peak productivity: 11 PM - 3 AM
-- 📱 Rubber duck debugging: Professional level
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="coding-fun"/>
 </p>
 
 ---
