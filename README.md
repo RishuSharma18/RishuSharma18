@@ -128,7 +128,7 @@ me.say_hi()
   <p>
   <img src="https://github-readme-stats.vercel.app/api?username=RishuSharma18&show_icons=true&theme=radical&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" height="200" alt="GitHub Stats"/>
   <!-- Top Languages (each language on separate line) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishuSharma18&layout=compact&theme=radical&langs_count=9&hide_border=false&border_radius=15" height="250" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishuSharma18&layout=compact&theme=radical&langs_count=9&hide_border=false&border_radius=15" height="300" alt="Top Languages"/>
 </p>
 
 
