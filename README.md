@@ -169,9 +169,10 @@ me.say_hi()
   </a>
 
   <!-- Codolio heatmap placeholder -->
-  <a href="https://codolio.com/Rishu_Sharma18" target="_blank">
-    <img src="https://img.shields.io/badge/Codolio-Heatmap-FF6B6B?style=for-the-badge" alt="Codolio Heatmap"/>
-  </a>
+ <a href="https://codolio.com/profile/Rishu_Sharma18" target="_blank">
+  <img src="https://img.shields.io/badge/Codolio-Heatmap-FF6B6B?style=for-the-badge" alt="Codolio Heatmap"/>
+</a>
+
 </p>
 
 
