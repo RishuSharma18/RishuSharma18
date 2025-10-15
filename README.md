@@ -1,10 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Rishu+Sharma+👋;Data+Scientist+in+the+Making+📊;Machine+Learning+Enthusiast+🤖;Turning+Coffee+into+Code+☕;3rd+Year+CSE+%40+SKIT+Jaipur" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Rishu+Sharma+👋;Data+Scientist+in+the+Making+📊;Machine+Learning+Enthusiast+🤖;3rd+Year+CSE (Data Science)+%40+SKIT+Jaipur" alt="Typing SVG"/>
 </h1>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-gif"/>
-</p>
 
 <p align="center">
   <a href="https://rishusharma.github.io" target="_blank">
@@ -25,8 +21,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishusharma&color=blueviolet&style=for-the-badge" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/rishusharma?style=for-the-badge&color=blue" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=RishuSharma18&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/RishuSharma18?style=for-the-badge&color=blue" alt="Followers"/>
 </p>
 
 ---
@@ -34,9 +30,9 @@
 ## 🚀 About Me - The Origin Story
 
 ```python
-class RishuSharma:
+class RishuSharma18:
     def __init__(self):
-        self.username = "rishusharma"
+        self.username = "Rishu Sharma"
         self.location = "Jaipur, Rajasthan 🇮🇳"
         self.education = "B.Tech CSE @ SKIT Jaipur (3rd Year)"
         self.passions = ["Data Science", "Machine Learning", "AI", "Basketball 🏀"]
@@ -46,7 +42,7 @@ class RishuSharma:
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing together! ✨")
 
-me = RishuSharma()
+me = RishuSharma18()
 me.say_hi()
 ```
 
@@ -77,9 +73,6 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
 </p>
 </details>
 
@@ -90,7 +83,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerBI-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </p>
 </details>
 
@@ -149,7 +142,7 @@ me.say_hi()
 
 <p align="center">
   <a href="https://leetcode.com/Rishu_Sharma18" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/rishusharma?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats"/>
+    <img src="https://leetcard.jacoblin.cool/Rishu_Sharma18?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Stats"/>
   </a>
 </p>
 
@@ -166,7 +159,7 @@ me.say_hi()
 ## 🎨 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RishuSharma18/RishuSharma18/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/RishuSharma18/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
