@@ -151,7 +151,7 @@ me.say_hi()
   <!-- GitHub Trophies with Description -->
   <b>🏆 GitHub Achievements & Trophies</b><br>
   <i>Highlighting milestones, languages, and contribution streaks</i><br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=RishuSharma18&theme=radical&no-frame=false&no-bg=false&row=1&column=9" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=RishuSharma18&theme=radical&no-frame=false&no-bg=false&row=1&column=10" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -181,7 +181,7 @@ me.say_hi()
 
 <p align="center">
   <a href="https://leetcode.com/Rishu_Sharma18" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Rishu_Sharma18?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Heatmap" width="700"/>
+    <img src="https://leetcard.jacoblin.cool/Rishu_Sharma18?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Heatmap" width="600"/>
   </a>
 </p>
 
