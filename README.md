@@ -1,6 +1,10 @@
-<h1 align="center">
-  <img src="https://img.shields.io/badge/Hey%20there!%20I'm%20Rishu%20Sharma👋-00D9FF?style=for-the-badge&logoColor=white" alt="Rishu Sharma"/>
+<h1 align="center" style="font-family: 'Fira Code', monospace; color: #00D9FF;">
+  Hey there! I'm Rishu Sharma 👋
 </h1>
+
+<p align="center" style="font-size: 18px; color: #7f8c8d;">
+  Data Science Enthusiast | Machine Learning Learner | CSE 3rd Year @ SKIT Jaipur
+</p>
 
 
 <p align="center">
