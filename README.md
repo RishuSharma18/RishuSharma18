@@ -1,9 +1,14 @@
 <h1 align="center" style="font-family: 'Fira Code', monospace; color: #00D9FF;">
-  Hey there! I'm Rishu Sharma 👋
+  Hey there!👋, I'm Rishu Sharma
 </h1>
 
 <p align="center">
-  <a href="https://RishuSharma18.github.io" target="_blank" title="Portfolio">
+  Data Enthusiast | Machine Learning Learner | C++ & DSA Practitioner
+</p>
+
+
+<p align="center">
+  <a href="https://rishusharma-portfolio.netlify.app/" target="_blank" title="Portfolio">
     <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/Rishu-Sharma1918" target="_blank" title="LinkedIn">
