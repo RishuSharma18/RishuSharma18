@@ -194,23 +194,6 @@ me.say_hi()
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
 </p>
 
----
-
-## 🤝 Let's Connect & Collaborate!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/Rishu-Sharma1918">
-    <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rishusharma1918@gmail.com">
-    <img src="https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://RishuSharma18.github.io">
-    <img src="https://img.shields.io/badge/Check_Out_My_Portfolio-FF6B6B?style=for-the-badge&logoColor=white" />
-  </a>
-</p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
