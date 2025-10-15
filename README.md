@@ -14,21 +14,20 @@
   <a href="https://www.linkedin.com/in/Rishu-Sharma1918" target="_blank" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="mailto:rishusharma1918@gmail.com" title="Email">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
   <a href="https://leetcode.com/Rishu_Sharma18" target="_blank" title="LeetCode">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/rishusharma18" target="_blank" title="GeeksforGeeks">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
-  <a href="mailto:rishusharma1918@gmail.com" title="Email">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
 </p>
-
 
 ---
 
-## 🚀 About Me - The Origin Story
+## 🚀 About Me - An Object-Oriented Adventure
 
 ```python
 class RishuSharma18:
@@ -122,14 +121,12 @@ me.say_hi()
 <p align="center">
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=RishuSharma18&color=blueviolet&style=for-the-badge" alt="Profile views"/>
-  
   <!-- Followers -->
   <img src="https://img.shields.io/github/followers/RishuSharma18?style=for-the-badge&color=blue" alt="Followers"/>
 </p>
-
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=RishuSharma18&show_icons=true&theme=radical&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RishuSharma18&show_icons=true&theme=radical&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" height="200" alt="GitHub Stats"/>
 
 <p align="center">
   <!-- Top Languages (each language on separate line) -->
@@ -154,7 +151,7 @@ me.say_hi()
   <!-- GitHub Trophies with Description -->
   <b>🏆 GitHub Achievements & Trophies</b><br>
   <i>Highlighting milestones, languages, and contribution streaks</i><br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=RishuSharma18&theme=radical&no-frame=false&no-bg=false&row=1&column=8" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=RishuSharma18&theme=radical&no-frame=false&no-bg=false&row=1&column=9" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -200,11 +197,6 @@ me.say_hi()
 ---
 
 ## 🤝 Let's Connect & Collaborate!
-
-<p align="center">
-  <b>💬 I'm always up for:</b><br>
-  Discussing ML algorithms | Collaborating on AI projects | Coffee chats about tech | Basketball debates 🏀
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/Rishu-Sharma1918">
