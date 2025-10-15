@@ -125,12 +125,12 @@ me.say_hi()
   <img src="https://img.shields.io/github/followers/RishuSharma18?style=for-the-badge&color=blue" alt="Followers"/>
 </p>
   <!-- GitHub Stats -->
- <p align="center">
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=RishuSharma18&show_icons=true&theme=radical&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats"/>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=RishuSharma18&show_icons=true&theme=radical&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" height="200" alt="GitHub Stats"/>
+
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishuSharma18&layout=compact&theme=radical&langs_count=9&hide_border=false&border_radius=15" width="48%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishuSharma18&layout=compact&theme=radical&langs_count=9&hide_border=false&border_radius=15" height="200" alt="Top Languages"/>
 </p>
 
 
