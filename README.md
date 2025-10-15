@@ -35,7 +35,7 @@ class RishuSharma18:
         self.name = "Rishu Sharma"
         self.location = "Jaipur, Rajasthan, India"
         self.education = "B.Tech in CSE (Data Science), 3rd Year @ SKIT Jaipur"
-        self.interests = ["Data Science", "Machine Learning", "AI", "Basketball"]
+        self.interests = ["Data Science", "Machine Learning", "AI", "Frontend Development"]
         self.current_focus = "Learning ML concepts and strengthening DSA skills in C++"
         self.strengths = "Consistent, disciplined and calm under pressure (except when code doesn't compile 😅)"
         self.goal = "To build a solid foundation in Data Science and become industry-ready"
