@@ -170,40 +170,19 @@ me.say_hi()
   <a href="https://auth.geeksforgeeks.org/user/rishusharma18" target="_blank" title="My GeeksforGeeks Profile">
     <img src="https://img.shields.io/badge/GeeksforGeeks-Active-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
   </a>
+</p>
 
-  <!-- Codolio -->
-  <a href="https://codolio.com/Rishu_Sharma18" target="_blank" title="My Codolio Profile">
-    <img src="https://img.shields.io/badge/Codolio-Active-FF6B6B?style=for-the-badge" alt="Codolio"/>
+<p align="center">
+  <b>📊 LeetCode Activity Heatmap</b><br>
+  <i>Visual representation of my problem-solving streaks, submissions, and activity consistency over time.</i>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/Rishu_Sharma18" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/Rishu_Sharma18?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Heatmap" width="700"/>
   </a>
 </p>
 
----
-
-<p align="center">
-  <b>📊 Heatmaps & Activity Overview</b><br>
-  <i>Track my problem-solving consistency and streaks</i>
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <b>LeetCode Heatmap</b><br>
-      <a href="https://leetcode.com/Rishu_Sharma18" target="_blank">
-        <img src="https://leetcard.jacoblin.cool/Rishu_Sharma18?theme=dark&font=Ubuntu&ext=heatmap" alt="LeetCode Heatmap" width="450"/>
-      </a>
-    </td>
-    <td align="center">
-      <b>Codolio Heatmap</b><br>
-      <a href="https://codolio.com/profile/Rishu_Sharma18" target="_blank">
-        <img src="https://img.shields.io/badge/Codolio-Heatmap-FF6B6B?style=for-the-badge" alt="Codolio Heatmap" width="300"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <i>Click on the badges or heatmaps to visit profiles and check stats in detail!</i>
-</p>
 
 ---
 
