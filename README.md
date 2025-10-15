@@ -42,7 +42,7 @@ class RishuSharma18:
         self.hobby = "Playing Basketball🏀 — keeps me focused, active, and a team player"
         
     def say_hi(self):
-        print("Hi, I'm Rishu👋. I'm learning Data Science & improving my DSA skills in C++ while working on practical projects.")
+        print("Hi, I'm Rishu👋. I'm learning Data Science & improving my DSA skills in C++ while working on projects.")
 
 me = RishuSharma18()
 me.say_hi()
