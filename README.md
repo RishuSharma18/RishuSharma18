@@ -3,26 +3,26 @@
 </h1>
 
 <p align="center">
-  <a href="https://rishusharma.github.io" target="_blank">
+  <a href="https://RishuSharma18.github.io" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/rishusharma" target="_blank">
+  <a href="https://www.linkedin.com/in/Rishu-Sharma1918" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/rishusharma" target="_blank">
+  <a href="https://leetcode.com/Rishu_Sharma18" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/rishusharma" target="_blank">
+  <a href="https://auth.geeksforgeeks.org/user/rishusharma18" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
-  <a href="mailto:rishusharma@example.com">
+  <a href="mailto:rishusharma1918@example.com">
     <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rishusharma&color=blueviolet&style=for-the-badge" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/rishusharma?style=for-the-badge&color=blue" alt="Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=RishuSharma18&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/RishuSharma18?style=for-the-badge&color=blue" alt="Followers"/>
 </p>
 
 ---
@@ -30,26 +30,29 @@
 ## 🚀 About Me - The Origin Story
 
 ```python
-class RishuSharma:
+class RishuSharma18:
     def __init__(self):
-        self.username = "rishusharma"
-        self.location = "Jaipur, Rajasthan 🇮🇳"
-        self.education = "B.Tech CSE @ SKIT Jaipur (3rd Year)"
-        self.passions = ["Data Science", "Machine Learning", "AI", "Basketball 🏀"]
-        self.current_status = "Teaching machines to learn while still learning myself 🤖"
-        self.superpower = "Can debug code and shoot hoops simultaneously"
+        self.name = "Rishu Sharma"
+        self.location = "Jaipur, Rajasthan, India"
+        self.education = "B.Tech in CSE (Data Science), 3rd Year @ SKIT Jaipur"
+        self.interests = ["Data Science", "Machine Learning", "AI", "Basketball"]
+        self.current_focus = "Learning ML concepts and strengthening DSA skills in C++"
+        self.strengths = "Consistent, disciplined and calm under pressure (except when code doesn't compile 😅)"
+        self.goal = "To build a solid foundation in Data Science and become industry-ready"
+        self.hobby = "Playing Basketball🏀 — keeps me focused, active, and a team player"
         
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together! ✨")
+        print("Hi, I'm Rishu 👋. I'm learning Data Science and improving my DSA skills in C++ while working on practical projects.")
 
-me = RishuSharma()
+me = RishuSharma18()
 me.say_hi()
+
 ```
 
-> 🎯 **Mission**: Transforming data into insights, algorithms into intelligence, and ideas into reality!  
+> 🎯 **Mission:** Turn data into useful insights and build practical solutions   
 > ⚡ **Fun Fact**: I can clean messy datasets for hours and still smile 😄 (It's a gift and a curse)  
 > 🐛 **Debug Count Today**: Lost track after the semicolon incident...  
-> 🏀 **Basketball Status**: Slam dunk dreamer | Code dunker by day
+> 🏀 **Basketball Status**: Shooting hoops, compiling loops
 
 ---
 
@@ -116,16 +119,16 @@ me.say_hi()
 ## 📊 GitHub Stats - The Numbers Game
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishusharma&show_icons=true&theme=radical&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishusharma&layout=compact&theme=radical&hide_border=true&border_radius=15&langs_count=8" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RishuSharma18&show_icons=true&theme=radical&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishuSharma18&layout=compact&theme=radical&hide_border=true&border_radius=15&langs_count=8" height="170" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishusharma&theme=radical&hide_border=true&border_radius=15" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishuSharma18&theme=radical&hide_border=true&border_radius=15" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rishusharma&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=RishuSharma18&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -174,25 +177,15 @@ me.say_hi()
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rishusharma">
+  <a href="https://www.linkedin.com/in/Rishu-Sharma1918">
     <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:rishusharma@example.com">
+  <a href="mailto:rishusharma1918@gmail.com">
     <img src="https://img.shields.io/badge/Send_Me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://rishusharma.github.io">
+  <a href="https://RishuSharma18.github.io">
     <img src="https://img.shields.io/badge/Check_Out_My_Portfolio-FF6B6B?style=for-the-badge&logoColor=white" />
   </a>
-</p>
-
----
-
-## 💭 Words I Code By
-
-<p align="center">
-  <i>"Data is the new oil — but only if you know how to refine it."</i><br>
-  <i>"First, solve the problem. Then, write the code."</i><br>
-  <i>"Machine Learning: Teaching computers to do things we don't fully understand ourselves!"</i>
 </p>
 
 ---
@@ -202,8 +195,8 @@ me.say_hi()
 </p>
 
 <p align="center">
-  <b>⭐️ From <a href="https://github.com/rishusharma">Rishu Sharma</a> with 💙 and ☕</b><br>
-  <i>Last Updated: October 2025 | Made with passion and a lot of Stack Overflow 😄</i>
+  <b>⭐️ From <a href="https://github.com/rishusharma">Rishu Sharma</a> with 💙</b><br>
+  <i>Last Updated: October 2025 | Made with passion and Stack Overflow 😄</i>
 </p>
 
 ---
