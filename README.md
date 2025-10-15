@@ -20,11 +20,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RishuSharma18&color=blueviolet&style=for-the-badge" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/RishuSharma18?style=for-the-badge&color=blue" alt="Followers"/>
-</p>
-
 ---
 
 ## 🚀 About Me - The Origin Story
@@ -119,17 +114,31 @@ me.say_hi()
 ## 📊 GitHub Stats - The Numbers Game
 
 <p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=RishuSharma18&color=blueviolet&style=for-the-badge" alt="Profile views"/>
+  
+  <!-- Followers -->
+  <img src="https://img.shields.io/github/followers/RishuSharma18?style=for-the-badge&color=blue" alt="Followers"/>
+</p>
+
+<p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=RishuSharma18&show_icons=true&theme=radical&hide_border=true&border_radius=15&include_all_commits=true&count_private=true" height="170" alt="GitHub Stats"/>
+
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishuSharma18&layout=compact&theme=radical&hide_border=true&border_radius=15&langs_count=8" height="170" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishuSharma18&theme=radical&hide_border=true&border_radius=15" alt="GitHub Streak"/>
+  <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=RishuSharma18&theme=radical&hide_border=true&border_radius=15" height="150" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
+  <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=RishuSharma18&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
+
 
 ---
 
