@@ -129,17 +129,23 @@ me.say_hi()
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RishuSharma18&layout=compact&theme=radical&hide_border=true&border_radius=15&langs_count=8" height="170" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RishuSharma18&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
+---
 
+## 📊 GitHub Activity & Achievements
+
+<p align="center">
+  <!-- Activity Graph with Description -->
+  <b>📈 My GitHub Activity Over Time</b><br>
+  <i>Tracks my contributions, commits, and overall activity</i><br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RishuSharma18&theme=react-dark&hide_border=false&area=true" alt="GitHub Activity Graph" />
 </p>
 
 <p align="center">
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=RishuSharma18&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  <!-- GitHub Trophies with Description -->
+  <b>🏆 GitHub Achievements & Trophies</b><br>
+  <i>Highlighting milestones, languages, and contribution streaks</i><br><br>
+  <img src="https://github-profile-trophy.vercel.app/?username=RishuSharma18&theme=radical&no-frame=false&no-bg=false&row=1&column=8" alt="GitHub Trophies"/>
 </p>
-
 
 ---
 
