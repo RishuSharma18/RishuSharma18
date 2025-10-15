@@ -208,10 +208,3 @@ me.say_hi()
   <i>Last Updated: October 2025 | Made with passion and Stack Overflow 😄</i>
 </p>
 
----
-
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-  <img src="https://forthebadge.com/images/badges/contains-technical-debt.svg" />
-</p>
