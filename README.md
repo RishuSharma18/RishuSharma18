@@ -47,14 +47,6 @@ class RishuSharma18:
 me = RishuSharma18()
 me.say_hi()
 
-```
-
-> 🎯 **Mission:** Turn data into useful insights and build practical solutions   
-> ⚡ **Fun Fact**: I can clean messy datasets for hours and still smile 😄 (It's a gift and a curse)  
-> 🐛 **Debug Count Today**: Lost track after the semicolon incident...  
-> 🏀 **Basketball Status**: Shooting hoops, compiling loops
-
----
 
 ## 🛠️ Tech Arsenal - My Weapons of Choice
 
