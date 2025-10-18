@@ -148,7 +148,7 @@ me.say_hi()
   <b>📈 My GitHub Activity Over Time</b><br>
   <i>Tracks my contributions, commits, and overall activity</i><br><br>
  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RishuSharma18&show_icons=true&theme=radical" alt="github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishuSharma18&theme=tokyonight" width="500" alt="GitHub Streak Stats" />
 </p>
 
 
