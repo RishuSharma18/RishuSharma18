@@ -17,12 +17,12 @@
   <a href="mailto:rishusharma1918@gmail.com" title="Email">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://leetcode.com/Rishu_Sharma18" target="_blank" title="LeetCode">
+  <!-- <a href="https://leetcode.com/Rishu_Sharma18" target="_blank" title="LeetCode">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="https://auth.geeksforgeeks.org/user/rishusharma18" target="_blank" title="GeeksforGeeks">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
+  </a> -->
 </p>
 
 ---
