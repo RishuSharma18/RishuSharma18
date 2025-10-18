@@ -146,7 +146,6 @@ me.say_hi()
 <p align="center">
   <!-- Activity Graph with Description -->
   <b>📈 My GitHub Activity Over Time</b><br><br>
- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishuSharma18&theme=tokyonight" width="500" alt="GitHub Streak Stats" />
 </p>
 
