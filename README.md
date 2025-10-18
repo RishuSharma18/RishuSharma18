@@ -145,8 +145,7 @@ me.say_hi()
 
 <p align="center">
   <!-- Activity Graph with Description -->
-  <b>📈 My GitHub Activity Over Time</b><br>
-  <i>Tracks my contributions, commits, and overall activity</i><br><br>
+  <b>📈 My GitHub Activity Over Time</b><br><br>
  <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RishuSharma18&theme=tokyonight" width="500" alt="GitHub Streak Stats" />
 </p>
@@ -154,8 +153,7 @@ me.say_hi()
 
 <p align="center">
   <!-- GitHub Trophies with Description -->
-  <b>🏆 GitHub Achievements & Trophies</b><br>
-  <i>Highlighting milestones, languages, and contribution streaks</i><br><br>
+  <b>🏆 GitHub Achievements & Trophies</b><br><br>
   <img src="https://github-profile-trophy.vercel.app/?username=RishuSharma18&theme=radical&no-frame=false&no-bg=false&row=1&column=8" alt="GitHub Trophies"/>
 </p>
 
@@ -181,7 +179,6 @@ me.say_hi()
 
 <p align="center">
   <b>📊 LeetCode Activity Heatmap</b><br>
-  <i>Visual representation of my problem-solving streaks, submissions, and activity consistency over time.</i>
 </p>
 
 <p align="center">
