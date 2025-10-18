@@ -46,7 +46,9 @@ class RishuSharma18:
 
 me = RishuSharma18()
 me.say_hi()
+```
 
+---
 
 ## 🛠️ Tech Arsenal - My Weapons of Choice
 
