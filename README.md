@@ -147,8 +147,10 @@ me.say_hi()
   <!-- Activity Graph with Description -->
   <b>📈 My GitHub Activity Over Time</b><br>
   <i>Tracks my contributions, commits, and overall activity</i><br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RishuSharma18&theme=react-dark&hide_border=false&area=true&custom_title=Rishu's+GitHub+Activity" alt="GitHub Activity Graph" />
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RishuSharma18&show_icons=true&theme=radical" alt="github stats" />
 </p>
+
 
 <p align="center">
   <!-- GitHub Trophies with Description -->
