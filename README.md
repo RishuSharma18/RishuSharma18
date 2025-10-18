@@ -8,9 +8,6 @@
 
 
 <p align="center">
-  <a href="https://rishusharma-portfolio.netlify.app/" target="_blank" title="Portfolio">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-FF6B6B?style=for-the-badge&logoColor=white" alt="Portfolio"/>
-  </a>
   <a href="https://www.linkedin.com/in/Rishu-Sharma1918" target="_blank" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
