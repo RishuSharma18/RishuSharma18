@@ -194,7 +194,5 @@ me.say_hi()
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 </p>
 
-<p align="center">
-  <b>⭐️ From <a href="https://github.com/rishusharma">Rishu Sharma</a> with 💙</b><br>
-</p>
+
 
