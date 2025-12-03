@@ -30,7 +30,6 @@
 class RishuSharma18:
     def __init__(self):
         self.name = "Rishu Sharma"
-        self.location = "Jaipur, Rajasthan, India"
         self.education = "B.Tech in CSE (Data Science), 3rd Year @ SKIT Jaipur"
         self.interests = ["Data Science", "Machine Learning", "AI", "Frontend Development"]
         self.current_focus = "Learning ML concepts and strengthening DSA skills in C++"
@@ -104,7 +103,6 @@ me.say_hi()
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
 </p>
 </details>
 
