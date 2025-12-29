@@ -46,7 +46,7 @@ me.say_hi()
 
 ---
 
-## 🛠️ Tech Arsenal - My Weapons of Choice
+## 🛠️ Tech Arsenal
 
 <details open>
 <summary><b>💻 Programming Languages</b></summary>
