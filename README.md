@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  Data Enthusiast  |  Machine Learning Learner  |  C++ & DSA Practitioner
+  Data Science  |  C++ & DSA Practitioner
 </p>
 
 
@@ -32,7 +32,6 @@ class RishuSharma18:
         self.name = "Rishu Sharma"
         self.education = "B.Tech in CSE (Data Science), 3rd Year @ SKIT Jaipur"
         self.interests = ["Data Science", "Machine Learning", "AI", "Frontend Development"]
-        self.current_focus = "Learning ML concepts and strengthening DSA skills in C++"
         self.strengths = "Consistent, disciplined and calm under pressure (except when code doesn't compile 😅)"
         self.goal = "To build a solid foundation in Data Science and become industry-ready"
         self.hobby = "Playing Basketball🏀 — keeps me focused, active, and a team player"
